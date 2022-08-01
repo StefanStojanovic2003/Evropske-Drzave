@@ -1,2 +1,1 @@
-# React-Kurs
-Danilo Vesovic - React Kurs
+Drzave Evrope
